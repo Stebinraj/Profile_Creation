@@ -174,11 +174,11 @@ aside {
 /* My Skills End */
 
 /* Education Start */
-.education{
+.education {
     height: 22em;
 }
 
-#edu_h{
+#edu_h {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 50px;
     font-weight: lighter;
@@ -186,7 +186,7 @@ aside {
     color: brown;
 }
 
-#edu_hr{
+#edu_hr {
     margin-left: 46%;
     margin-right: 47%;
     height: 2px;
@@ -195,13 +195,13 @@ aside {
     margin-top: 5px;
 }
 
-.edu_list{
+.edu_list {
     margin-left: 15%;
     margin-right: 15%;
     margin-top: 7%;
 }
 
-.education_hr hr{
+.education_hr hr {
     height: 1px;
     color: black;
     background-color: black;
@@ -209,22 +209,23 @@ aside {
     margin-bottom: 7px;
 }
 
-.edu_st{
+.edu_st {
     color: darkgray;
 }
 
-.edu_chan{
+.edu_chan {
     list-style-type: circle;
     margin-left: 30px;
 }
+
 /* Education End */
 
 /* Contacts Start */
-.contacts{
+.contacts {
     height: 24em;
 }
 
-.contacts h1{
+.contacts h1 {
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 50px;
@@ -233,20 +234,20 @@ aside {
     margin-top: 1%;
 }
 
-.contacts hr{
+.contacts hr {
     margin-left: 47%;
     margin-right: 47%;
     background-color: black;
     height: 1.5px;
 }
 
-.contacts form{
+.contacts form {
     margin-top: 4%;
     margin-left: 35%;
     color: darkgray;
 }
 
-.mlft{
+.mlft {
     margin-left: 41.5%;
     margin-right: 35%;
     height: 2px;
@@ -257,11 +258,11 @@ aside {
 /* Contacts End */
 
 /* Footer Start */
-footer{
+footer {
     margin-top: 40px;
 }
 
-footer nav a{
+footer nav a {
     text-decoration: none;
     color: black;
     padding-left: 70px;
@@ -269,21 +270,22 @@ footer nav a{
     margin-left: 25px;
 }
 
-#cp_tl{
+#cp_tl {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: brown;
     float: left;
     margin-left: 80px;
 }
 
-.brf{
+.brf {
     border-right: 1px solid black;
 }
 
-#fh2 a{
+#fh2 a {
     color: brown;
     text-decoration: none;
     float: right;
     margin-right: 100px;
 }
+
 /* Footer End */
